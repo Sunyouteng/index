@@ -6,7 +6,7 @@
 
 ## 开源模块
 
-`SeetaFace6`是中科视拓最新开源的商业正式版本。突破了之前社区版和企业版版本不同步发布的情况，这次开源的v6版本正式与商用版本同步。
+`SeetaFace6`这次开源的v6版本正式与商用版本同步。
 
 <div align=center>
 <img src="./asserts/fas.jpg" width="310" height="180" />
